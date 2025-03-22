@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aleneluan&color=red&style=for-the-badge&label=VISUALIZAÇÕES+DESTE+PERFIL" alt="Alene Luana" />
+</p>
+
 ## Hi there 👋
 
 
