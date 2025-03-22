@@ -11,9 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aleneluana&show_icons=true" />
 </picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleneluana&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleneluana&theme=dracula&show_icons=true)
 
-https://camo.githubusercontent.com/84283f7473d5f0fb81eceb7bddd0d45f00bd95e9d4ebc69ebfece8a3b186315d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7368616465732d6f662d707572706c65
+
 
 <div align="center">
   <a href="https://github.com/nextmarte">
