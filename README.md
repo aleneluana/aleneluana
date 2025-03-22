@@ -1,8 +1,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aleneluan&color=red&style=for-the-badge&label=VISUALIZAÇÕES+DESTE+PERFIL" alt="Alene Luana" />
-</p>
-
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=aleneluana&show_icons=true&theme=dark"
