@@ -22,6 +22,22 @@
 <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleneluana)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+
+### You can also find me at:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/marcus-ramalho-8a440545/)
+[![Orcid](https://img.shields.io/badge/Orcid-green.svg?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0003-9282-7098)
+  <br>
+[![Youtube](https://img.shields.io/youtube/channel/views/UCL1aCShE8iFsqfMqglIFNcw?style=social)](https://www.youtube.com/channel/UCL1aCShE8iFsqfMqglIFNcw)  
+
+
+
+🌱 I’m currently learning Rust and JavaScript
+  <br>
+👯 I’m looking to collaborate on data science projects
+
 ## Hi there 👋
 
 
